@@ -71,7 +71,7 @@ Don't forget to give the project a star! Thanks again!
 
 Sagar Tamang - [@LinkedIn](https://www.linkedin.com/in/sagar-tmg/) - cs22bcagn033@kazirangauniversity.in
 
-Project Link: [https://github.com/SAGAR-TAMANG/medic-report-ai](https://github.com/SAGAR-TAMANG/medic-report-ai)
+Project Link: [https://github.com/SAGAR-TAMANG/job.successscholar.in](https://github.com/SAGAR-TAMANG/job.successscholar.in)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
